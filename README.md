@@ -2,7 +2,7 @@
 
 *Actividad para realizar un sitio WEB con MDBootstrap*  
 
-**Autor**: *Mauro Daniel Viveros*  
+**Autor**: *Gerardo Garrido*  
 **Teacher**: *[Mauro Daniel Viveros (TRY Ubbe)](https://www.github.com/maurodviveros)*  
 
 
