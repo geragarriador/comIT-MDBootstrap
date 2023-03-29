@@ -1,3 +1,11 @@
-.container-fluid{
+div{
     padding: 0%;
+    flex-direction: column;
+    display: flex;
+    gap: 1rem;
+    
+}
+
+div h1{
+    text-align: center;
 }
